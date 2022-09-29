@@ -1,2 +1,1 @@
-my first readme
-good programmer
+I love programming
